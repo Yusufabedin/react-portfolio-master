@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Yusuf Abedin",
+    "occupation": "ReactJS Developer && Member of @CandyCrab",
+    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #candycrab08",
+    "image": "IG_Yusuf.jpeg",
+    "bio": "My name is Yusuf, I'm a Full Stack ReactJS Developer. Currently I'm working at CandyCrab while also developing website",
+    "contactmessage": "Get in touch with me to receive further details, get contact or anything else.",
+    "email": "yusuf.abedin95@gmail.com",
+    "phone": "+44 12 345 6789",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Bangladesh",
+      "state": "Dhaka",
+      "zip": "1204"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/arian.fahad",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yusuf-abedin-10a5a1193/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/yusufabedin/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/yusufabedin",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Siddheswari university college",
+        "degree": "Masters in Finance & Banking",
+        "graduated": "January 2018",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "CandyCrab",
+        "title": "Team Member && Candycrab",
+        "years": "April 2020 - Present",
+        "description": "We build theme in themeforest platform."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Corona Tracker Application",
+        "category": "corona tracker application built with React (Html, Css, ReactJS,)",
+        "image": "corona-tracker.jpeg",
+        "url": "https://corona-tracker-application.netlify.app/"
+      },
+      {
+        "title": "Travel Website",
+        "category": "Travel Website built with Html,Scss",
+        "image": "travel-website.png",
+        "url": "https://yusufabedin.github.io/Travel-Website/"
+      },
+      {
+        "title": "Starbucks Landing Page",
+        "category": "Starbucks landing page built with Html,Scss,Css",
+        "image": "Starbucks.png",
+        "url": "https://yusufabedin.github.io/Starbucks-Landing-Page/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have faced many obstacles in my life. I never broke down. InshaAllah..‌ One day something good will happen.",
+        "user": "Yusuf Abedin"
+      },
+      {
+        "text": "My mother told me. Never be arrogant, you will be successful one day InshaAllah...",
+        "user": "My Mother"
+      }
+    ]
+  }
+}
